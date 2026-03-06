@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+real_data_experiments/Metadata_v5
+real_data_experiments/aal116_labels.csv
+real_data_experiments/saved_results
+.DS_Store
+.idea
+.ipynb_checkpoints
+real_data_experiments/taowu
